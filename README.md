@@ -61,4 +61,5 @@ This wrapper uses only ComfyUI's standard packages. No additional installations 
 Maintained by Dragon Diffusion UK: [https://www.dragondiffusionuk.co.uk](https://www.dragondiffusionuk.co.uk)
 We build practical, bleeding-edge AI integrations for actual humans.
 
-Pull requests, feedback, and banter welcome.
+Pull requests, feedback, and banter welcome. 
+PS please note I am a vibe coder so if you ask me something that is not on sport I will struggle haahahahah
