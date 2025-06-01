@@ -1,0 +1,15 @@
+[project]
+name = "boyosupercoolwrapper"
+description = "This is a ComfyUI wrapper for Andrew DalPino's SuperCool upscaler, enabling its use directly within ComfyUI's node workflow. No extra dependencies required—just drop in the models and go."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/DragonDiffusionbyBoyo/BoyoSupercoolWrapper"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "dragondiffusionbyboyo"
+DisplayName = "BoyoSupercoolWrapper"
+Icon = ""
+includes = []
