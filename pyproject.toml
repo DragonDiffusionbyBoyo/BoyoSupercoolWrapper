@@ -1,7 +1,7 @@
 [project]
 name = "boyosupercoolwrapper"
-description = "This is a ComfyUI wrapper for Andrew DalPino's SuperCool upscaler, enabling its use directly within ComfyUI's node workflow. No extra dependencies required—just drop in the models and go."
-version = "1.0.0"
+description = "This is a ComfyUI wrapper for Andrew DalPino's SuperCool upscaler version 2 now video upscaler as well, enabling its use directly within ComfyUI's node workflow. No extra dependencies required—just drop in the models and go."
+version = "2.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
